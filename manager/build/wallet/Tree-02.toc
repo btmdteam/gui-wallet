@@ -1,0 +1,5 @@
+('/usr/local/lib/python2.7/site-packages/requests-2.19.1-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.so', '*module.so', 'EGG-INFO']),
+ 'DATA',
+ [])

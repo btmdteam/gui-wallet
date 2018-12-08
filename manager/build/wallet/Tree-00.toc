@@ -1,0 +1,7 @@
+('/usr/local/lib/python2.7/site-packages/certifi-2018.8.24-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.so', '*module.so', 'EGG-INFO']),
+ 'DATA',
+ [('certifi/cacert.pem',
+   '/usr/local/lib/python2.7/site-packages/certifi-2018.8.24-py2.7.egg/certifi/cacert.pem',
+   'DATA')])
